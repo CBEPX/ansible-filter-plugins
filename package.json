@@ -35,6 +35,6 @@
     "@commitlint/config-conventional": "^6.1.2",
     "@semantic-release/exec": "^2.0.1",
     "husky": "^0.14.3",
-    "semantic-release": "^13.4.1"
+    "semantic-release": "^25.0.9"
   }
 }
